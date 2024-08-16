@@ -9,6 +9,7 @@
 - [Usage](#usage)
 - [Testing](#testing)
 - [Contributing](#contributing)
+- [License](#license)
 - [Author](#author)
 
 ## Installation
@@ -60,5 +61,7 @@ chmod +x ./student/script.sh
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## Author
  * [Benard Okumu](https://learn.zone01kisumu.ke/git/bernaotieno)
