@@ -23,12 +23,13 @@ To use this project, you need to have Go installed. Follow the steps below to ge
 
 
 ## Project Structure
- * `student/linearreg.go`: Calculates the slope and intercept of the data provided
- * `student/main.go`: The main entry point for the application.
+ * `student/calculation/linearreg.go`: Calculates the slope and intercept of the data provided
  * `student/calculation/mean.go`: Calculates the mean of a slice of float64 numbers.
  * `student/calculation/range.go`: Calculates the range based on the linear regresion
  * `student/calculation/stddeviation.go`: Calculates the standard deviation from variance.
  * `student/calculation/variance.go`: Calculates the variance of a slice of float64 numbers.
+
+ * `student/main.go`: The main entry point for the application.
 
 ## Usage
 
