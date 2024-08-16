@@ -43,7 +43,7 @@ chmod +x ./student/script.sh
 ```sh
 ./student/script.sh
 ```
-Enter numbers one by one and press Enter. The program will calculate and print the range after each entry. To exit, simply press Enter without typing a number.
+3. Enter numbers one by one and press Enter. The program will calculate and print the range after each entry. To exit, simply press `crl`+`c`.
 
 ## Testing
 **To test the project, follow these steps:**
